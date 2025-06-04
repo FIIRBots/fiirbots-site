@@ -62,16 +62,16 @@ function Contact() {
             <div className="mt-8">
               <h4 className="text-navy font-semibold text-lg mb-4">Urmărește-ne</h4>
               <div className="flex space-x-4">
-                <a href="#" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
+                <a href="https://facebook.com/fiirbots" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
                   <i className="fab fa-facebook-f w-6 h-6" />
                 </a>
-                <a href="#" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
+                <a href="https://twitter.com/fiirbots" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
                   <i className="fab fa-twitter w-6 h-6" />
                 </a>
-                <a href="#" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
+                <a href="https://linkedin.com/company/fiirbots" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
                   <i className="fab fa-linkedin-in w-6 h-6" />
                 </a>
-                <a href="#" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
+                <a href="https://github.com/fiirbots" className="bg-navy text-skyblue p-3 rounded-full hover:bg-purple transition">
                   <i className="fab fa-github w-6 h-6" />
                 </a>
               </div>
